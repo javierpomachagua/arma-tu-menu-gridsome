@@ -7,6 +7,12 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "gridsome": "^0.7.0"
+    "@gridsome/source-graphql": "^0.1.0",
+    "axios": "^0.21.0",
+    "gridsome": "^0.7.0",
+    "vuex": "^3.5.1"
+  },
+  "devDependencies": {
+    "gridsome-plugin-tailwindcss": "^3.0.1"
   }
 }
